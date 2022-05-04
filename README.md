@@ -21,7 +21,7 @@ longitude = '-46.6130155'
 valor_minimo = 10.0
 ```
 
-## Endpoints
+## Resultados & O que é esperado
 Lista de restaurantes abertos que correspondem critério especificado, resultado direto no Console no formato abaixo<br>
 ```
 --------------
